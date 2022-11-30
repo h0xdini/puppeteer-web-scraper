@@ -1,5 +1,9 @@
 # web-scraper
 
+## Note
+- If after running the script and the browser doesn't scroll to the bottom (it will take like 10s os scrolling) then just re-run the server
+- After the script reaches the bottom of the browser, it will take a few seconds to display the JSON array in the terminal (estimated time of 3 seconds)
+
 >> To run: `npm run dev`
 
 ## Solution Explanation:
